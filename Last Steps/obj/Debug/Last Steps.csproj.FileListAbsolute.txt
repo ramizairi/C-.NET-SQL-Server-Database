@@ -1,0 +1,16 @@
+C:\Users\hlinu\Desktop\Last Steps Project\Last Steps\Last Steps\bin\Debug\Last Steps.exe.config
+C:\Users\hlinu\Desktop\Last Steps Project\Last Steps\Last Steps\bin\Debug\Last Steps.exe
+C:\Users\hlinu\Desktop\Last Steps Project\Last Steps\Last Steps\bin\Debug\Last Steps.pdb
+C:\Users\hlinu\Desktop\Last Steps Project\Last Steps\Last Steps\obj\Debug\Last Steps.csproj.AssemblyReference.cache
+C:\Users\hlinu\Desktop\Last Steps Project\Last Steps\Last Steps\obj\Debug\Last Steps.csproj.SuggestedBindingRedirects.cache
+C:\Users\hlinu\Desktop\Last Steps Project\Last Steps\Last Steps\obj\Debug\Last_Steps.Properties.Resources.resources
+C:\Users\hlinu\Desktop\Last Steps Project\Last Steps\Last Steps\obj\Debug\Last Steps.csproj.GenerateResource.cache
+C:\Users\hlinu\Desktop\Last Steps Project\Last Steps\Last Steps\obj\Debug\Last Steps.csproj.CoreCompileInputs.cache
+C:\Users\hlinu\Desktop\Last Steps Project\Last Steps\Last Steps\obj\Debug\Last Steps.exe
+C:\Users\hlinu\Desktop\Last Steps Project\Last Steps\Last Steps\obj\Debug\Last Steps.pdb
+C:\Users\hlinu\Desktop\Last Steps Project\Last Steps\Last Steps\bin\Debug\Guna.UI2.dll
+C:\Users\hlinu\Desktop\Last Steps Project\Last Steps\Last Steps\obj\Debug\Last Steps.csproj.CopyComplete
+C:\Users\hlinu\Desktop\Last Steps Project\Last Steps\Last Steps\obj\Debug\Last_Steps.Login.resources
+C:\Users\hlinu\Desktop\Last Steps Project\Last Steps\Last Steps\obj\Debug\Last_Steps.UserControl.SignUp.resources
+C:\Users\hlinu\Desktop\Last Steps Project\Last Steps\Last Steps\obj\Debug\Last_Steps.UserControl.Forgotpassword.resources
+C:\Users\hlinu\Desktop\Last Steps Project\Last Steps\Last Steps\obj\Debug\Last_Steps.UserControl.ResetPassword.resources
